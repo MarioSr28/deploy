@@ -41,7 +41,7 @@
 					   <div id="mobnav-btn"> </div>
 					   <ul class="sf-menu">
 						<li class="current">
-							<a href="/">Inicio</a>
+							
 						 </li>
 						  <li>
 							 <a href="/actividadesNimbu">Actividades</a>
