@@ -33,7 +33,7 @@
 			  <div class="row">
 				 <div class="header-table col-md-12">
 					<div class="brand">
-                        <a href="/"><img src="{{asset('/images/LogoFinal.jpegs')}}" alt="Enfold"></a>
+                        <a href="/"><img src="{{asset('/images/LogoFinal.jpeg')}}" alt="Enfold"></a>
 
 					   </a>
 					</div>
