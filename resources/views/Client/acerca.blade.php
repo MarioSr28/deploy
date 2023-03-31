@@ -54,7 +54,7 @@
                   <!-- Service item -->
                   <div class="service-box-sb wow fadeInUp" data-wow-delay=".2s">
                      <div class="service-img">
-                     <img src="{{asset('/images/LogoFinal.jpeg')}}" alt="Enfold">  
+                     <img src="{{asset('/images/LogoFinal1.png')}}" alt="Enfold">  
                      </div>
                      <div class="service-info">
                         <h5>Valores de NIMBÚ</h5>
