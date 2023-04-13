@@ -43,7 +43,7 @@ Route::get('/actividadesNimbu', [App\Http\Controllers\ClienteController::class, 
 Route::get('/galeriaNimbu', [App\Http\Controllers\ClienteController::class, 'galeria'])->name('NimbuGaleria');
 Route::get('/galeriaActividadNimbu', [App\Http\Controllers\ClienteController::class, 'galeriaActividad'])->name('NimbuGaleriaActividad');
 Route::get('/reservacionNimbu/{idCapacitacion?}', [App\Http\Controllers\ClienteController::class, 'reservarCapacitacion'])->name('reservarCapacitacion');
-Route::post('/reservaCliente', [App\Http\Controllers\ClienteController::class, 'reservaCliente'])->name('reservaCliente'); //Cambio de método GET a POST en ruta
+Route::get('/reservaCliente', [App\Http\Controllers\ClienteController::class, 'reservaCliente'])->name('reservaCliente'); //Cambio de método POST a GET
 Route::get('/galeriaNimbuFiltro/{filtro?}', [App\Http\Controllers\ClienteController::class, 'galeriaFiltro'])->name('NimbuGaleriaFiltro#2');
 Route::get('/galeriaActividadNimbuFiltro/{filtro?}', [App\Http\Controllers\ClienteController::class, 'galeriaActividadFiltro'])->name('NimbuGaleriaActividadFiltro');
 
