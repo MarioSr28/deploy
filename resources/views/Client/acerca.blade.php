@@ -109,7 +109,7 @@
                             </div>
                             <div class="post-content">
                                <h5><p> Adolfo Salinas Acosta </p></h5>
-                               <div class="post-info"><span> PROFESOR </span>/<span> <p>UNA SEDE NICOYA</p> </span> </div>
+                               <div class="post-info"> <span> <p> PROFESOR / UNA SEDE NICOYA </p> </span> </div>
                                <p>
                                   FUNCIONARIO DEL CEMEDE
                                </p>
@@ -123,7 +123,7 @@
                             </div>
                             <div class="post-content">
                                <h5> <p> Ronald Sánchez Brenes </p></h5>
-                               <div class="post-info"><span> PROFESOR </span>/<span><p> UNA SEDE LIBERIA</p> </span> </div>
+                               <div class="post-info"> <span> <p> PROFESOR / UNA SEDE LIBERIA</p> </span> </div>
                                <p>
                                  FUNCIONARIO DEL CEMEDE
                                </p>
@@ -137,7 +137,7 @@
                             </div>
                             <div class="post-content">
                                <h5><p> William Gómez Solís </p></h5>
-                               <div class="post-info"> <span> PROFESOR </span> / <span> <p> UNA SEDE NICOYA </p> </span> </div>
+                               <div class="post-info"> <span> <p> PROFESOR / UNA SEDE NICOYA </p> </span> </div>
                                <p>
                                   FUNCIONARIO DEL CEMEDE
                                </p>
