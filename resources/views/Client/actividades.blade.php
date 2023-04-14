@@ -18,8 +18,7 @@
                    
                     <h3 class="display-5 text-uppercase mb-0"> Actividades Avaladas por el CEMEDE </h3>
                     </div>
-                    <h5 class="text-body mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis harum corrupti minus a eos nesciunt 
-                      cumque nihil totam fugiat blanditiis nisi quibusdam neque officia reiciendis eveniet, natus rem iusto sapiente! Diam dolor diam ipsum tempor sit. Clita erat ipsum et lorem stet no labore lorem sit clita duo justo magna dolore</h5>
+                    <h5 class="text-body mb-4"> En este apartado muestra la información correspondiente a diferentes actividades organizadas o promovidas por la institución </h5>
                       <iframe width="560" height="315" src="https://www.youtube.com/embed/vlJ5ZprkjN8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                     </div>
                 </div>
