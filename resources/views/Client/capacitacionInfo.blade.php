@@ -62,7 +62,7 @@
                     <h2 class="display-5 text-uppercase mb-0">Información importante para solicitar una capacitación</h2>
                     </div>
                     <h4 class="text-body mb-4">Entre los esfuerzos de acción social tomados por el CEMEDE se encuentra la disponibilidad de una serie de actividades de capacitación o charlas al público en general.
-                      Estas actividades se extienden sobre un rango diferente de temas asociados al ambiente y los sistemas de captación de agua de lluvia.
+                      Estas actividades se extienden sobre un rango diferente de temas asociados al ambiente y los sistemas de captación de agua de lluvia. Si desea hacer solicitud de una capacitación diferente a las ofrecidas, por favor comunicarse al correo @... donde lo atenderá el encargado en este tema.
                     </h4>
                     
                     </div>

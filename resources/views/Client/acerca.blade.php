@@ -59,9 +59,9 @@
                      <div class="service-info">
                         <h5>VALORES DEL NIMBÚ</h5>
                         <div class="desc">
-                           Acción Social
+                           Acción Social,
                            
-                           Trabajo En Equipo
+                           Trabajo En Equipo,
 
                            Responsabilidad
 

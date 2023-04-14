@@ -29,77 +29,7 @@
          </div>
       </div>
 
-      <!-- About Section -->
-      <div class="container-about">
-         <div class="container">
-            <div class="row">
-               <div class="col-md-12">
-                  <h3 class="title-un">QUIÉNES SOMOS</h3>
-                  <div class="title-un-icon"><i class="fa ion-ios-flame-outline"></i></div>
-                 <!--  <p class="title-un-des">Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, </p>-->
-               </div>
-            </div>
-            <div class="row">
-               <div class="col-md-4">
-                  <!-- Service item -->
-                  <div class="service-box-sb wow fadeInUp">
-                     <div class="service-img">
-                        <img src="../../../assets/images/slider/Manos.jpg" alt="Enfold">
-                     </div>
-                     <div class="service-info">
-                        <h5>Misión</h5>
-                        <div class="desc">
-                           Reconocer comunidades o áreas que sufran de algun tipo de necesidad en lo que concierne al recurso hídrico, analizando si es 
-                           rentable o provechoso implementar un sistema SCALL para hacer más llevadera la vida cotidiana
-                           de los residentes de la comunidad objetivo. Además de esto, pretendemos educar a las comunidades u organizaciones interesadas
-                           en temas sobre el aprovechamiento, tratamiento, y conservacion del agua a través de la organización de diferentes capacitaciones u orientaciones                  
-                                    <a class="see-more" href="#">
-
-                        <div class="line"></div>
-                      </a>
-                        </div>
-                     </div>
-                  </div>
-                  <!-- End Service item -->
-               </div>
-               <div class="col-md-4">
-                  <!-- Service item -->
-                  <div class="service-box-sb wow fadeInUp" data-wow-delay=".2s">
-                     <div class="service-img">
-                        <img src="../../../assets/images/slider/Nimbu_Sinfondo.png" alt="Enfold">
-                     </div>
-                     <div class="service-info">
-                        <h5>NIMBÚ</h5>
-                        <div class="desc">
-                           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris iaculis sapien sit amet arcu ornare, non commodo ligula consectetur adipiscing elit.
-                           <a class="see-more" href="#">
-                     
-                        <div class="line"></div>
-                      </a>
-                        </div>
-                     </div>
-                  </div>
-                  <!-- End Service item -->
-               </div>
-               <div class="col-md-4">
-                  <!-- Service item -->
-                  <div class="service-box-sb wow fadeInUp" data-wow-delay=".4s">
-                     <div class="service-img">
-                        <img src="../../../assets/images/slider/Gota.jpg" alt="Enfold">
-                     </div>
-                     <div class="service-info">
-                        <h5>VISIÓN</h5>
-                        <div class="desc">
-                           Colaborar de manera activa en las diferentes comunidades de la región chorotega con la implementación de sistemas de recolección de agua
-                           de lluvia, además de la educación y concientización a las mismas en temas relacionados                           <a class="see-more" href="#"><div class="line"></div></a>
-                        </div>
-                     </div>
-                  </div>
-                  <!-- End Service item -->
-               </div>
-            </div>
-         </div>
-      </div>
+  
 
       <div class="container">
 
