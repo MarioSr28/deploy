@@ -18,7 +18,7 @@
                    
                     <h3 class="display-5 text-uppercase mb-0"> Actividades Avaladas por el CEMEDE </h3>
                     </div>
-                    <h5 class="text-body mb-4"> En este apartado muestra la información correspondiente a diferentes actividades organizadas o promovidas por la institución </h5>
+                    <h5 class="text-body mb-4"> En este apartado se muestra la información correspondiente a diferentes actividades organizadas o promovidas por la institución </h5>
                       <iframe width="560" height="315" src="https://www.youtube.com/embed/vlJ5ZprkjN8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                     </div>
                 </div>
@@ -38,24 +38,25 @@
    <div>
         @foreach($actividad as $actividades)
        
-        <div id="card-activity" class="blog-card">
-            <div class="meta">
-              <div class="photo" style="background-image: url(../../../../images/actividades/{{$actividades->imagen}})"></div>
-              <ul class="details">
-                <li class="author"><a href="#">{{$actividades->lugar}}</a></li>
-                <li class="date">{{$actividades->fecha}}</li>
-                <li class="tags">
-                
-                </li>
-              </ul>
-            </div>
-            <div id="informacion" class="description">
-                <h1>{{$actividades->titulo}}</h1>
-              <h2>Descripción</h2>
-              <span>{{$actividades->descripcion}}</span>
-            </div>
-          </div>
-          @endforeach
+            <div id="card-activity" class="blog-card">
+                <div class="meta">
+                  <div class="photo" style="background-image: url(../../../../images/actividades/{{$actividades->imagen}})">
+                  </div>
+                  <ul class="details">
+                    <li class="author"><a href="#">{{$actividades->lugar}}</a></li>
+                    <li class="date">{{$actividades->fecha}}</li>
+                    <li class="tags">
+                    
+                    </li>
+                  </ul>
+                </div>
+                <div id="informacion" class="description">
+                    <h1>{{$actividades->titulo}}</h1>
+                  <h2>Descripción</h2>
+                  <span>{{$actividades->descripcion}}</span>
+                </div>
+              </div>
+         @endforeach
 </div>
 <div class="pagination">
   {!! $actividad->links() !!}
