@@ -359,8 +359,8 @@
                   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1592.7866466433595!2d-85.44722145284595!3d10.13438905914181!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f9fb0ad9493f9cf%3A0x12f243e7463b8ae2!2sUniversidad%20Nacional%2C%20150%2C%20Provincia%20de%20Guanacaste%2C%20Nicoya!5e0!3m2!1ses!2scr!4v1675921355894!5m2!1ses!2scr"
                   width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" align="left">dgdsgdsgd</iframe>
                   <p> 
-                     <img align="left">Texto tan extenso como queramos que cubrirá la parte derecha de la imagen. Sigo poniendo texto para que se vea el efecto, Bla bla bla bla bla bla bla... 
-                     </p>
+                     <img align="left"> LAS INSTALACIONES PRINCIPALES DEL CEMEDE SE ENCUENTRAN EN LA SUBSEDE REGIONAL DE NICOYA DEL CAMPUS CHOROTEGA DE LA UNIVERSIDAD NACIONAL, PROVINCIA DE GUANACASTE
+                  </p>
                </div>
             </div>
                </div>

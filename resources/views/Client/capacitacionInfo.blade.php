@@ -61,8 +61,9 @@
                    
                     <h2 class="display-5 text-uppercase mb-0">Información importante para solicitar una capacitación</h2>
                     </div>
-                    <h4 class="text-body mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis harum corrupti minus a eos nesciunt 
-                      cumque nihil totam fugiat blanditiis nisi quibusdam neque officia reiciendis eveniet, natus rem iusto sapiente! Diam dolor diam ipsum tempor sit. Clita erat ipsum et lorem stet no labore lorem sit clita duo justo magna dolore</h4>
+                    <h4 class="text-body mb-4">Entre los esfuerzos de acción social tomados por el CEMEDE se encuentra la disponibilidad de una serie de actividades de capacitación o charlas al público en general.
+                      Estas actividades se extienden sobre un rango diferente de temas asociados al ambiente y los sistemas de captación de agua de lluvia.
+                    </h4>
                     
                     </div>
                 </div>

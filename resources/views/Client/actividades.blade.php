@@ -16,7 +16,7 @@
                 <div class="col-lg-7">
                     <div class="border-start border-5 border-primary ps-5 mb-5">
                    
-                    <h3 class="display-5 text-uppercase mb-0">Aspectos que se debe considerar antes de elegir una actividad</h3>
+                    <h3 class="display-5 text-uppercase mb-0"> Actividades Avaladas por el CEMEDE </h3>
                     </div>
                     <h5 class="text-body mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis harum corrupti minus a eos nesciunt 
                       cumque nihil totam fugiat blanditiis nisi quibusdam neque officia reiciendis eveniet, natus rem iusto sapiente! Diam dolor diam ipsum tempor sit. Clita erat ipsum et lorem stet no labore lorem sit clita duo justo magna dolore</h5>

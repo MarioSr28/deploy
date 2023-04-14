@@ -35,7 +35,7 @@
                         <img src="../../../assets/images/slider/Manos.jpg" alt="Enfold">
                      </div>
                      <div class="service-info">
-                        <h5>Misión</h5>
+                        <h5>MISIÓN</h5>
                         <div class="desc">
                            Reconocer comunidades o áreas que sufran de algun tipo de necesidad en lo que concierne al recurso hídrico, analizando si es 
                            rentable o provechoso implementar un sistema SCALL para hacer más llevadera la vida cotidiana
@@ -57,9 +57,14 @@
                      <img src="{{asset('/images/LogoFinal1.png')}}" alt="Enfold">  
                      </div>
                      <div class="service-info">
-                        <h5>Valores de NIMBÚ</h5>
+                        <h5>VALORES DEL NIMBÚ</h5>
                         <div class="desc">
-                           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris iaculis sapien sit amet arcu ornare, non commodo ligula consectetur adipiscing elit.
+                           Acción Social
+                           
+                           Trabajo En Equipo
+
+                           Responsabilidad
+
                            <a class="see-more" href="#">
                      
                         <div class="line"></div>
@@ -98,43 +103,43 @@
                       <ul class="blog-posts-g">
                          <li>
                             <div class="post-img">
-                               <a href="#">
+                               <p>
                                   <img src="../../../assets/images/FOTO ADOLFO.jpeg" alt="Meet the New UI Design">
-                               </a>
+                              </p>
                             </div>
                             <div class="post-content">
-                               <h5><a href="#"> Adolfo Salinas Acosta </a></h5>
-                               <div class="post-info"><span> Profesor</span>/<span><a href="#">UNA SEDE NICOYA</a></span></div>
+                               <h5><p> Adolfo Salinas Acosta </p></h5>
+                               <div class="post-info"><span> PROFESOR </span>/<span> <p>UNA SEDE NICOYA</p> </span> </div>
                                <p>
-                                  Dow wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse iriure molestie...
+                                  FUNCIONARIO DEL CEMEDE
                                </p>
                             </div>
                          </li>
                          <li>
                             <div class="post-img">
-                               <a href="#">
+                               <p>
                                   <img src="../../../assets/images/FOTO RONALD.jpeg" alt="A LOOK INSIDE THE Workspace">
-                               </a>
+                              </p>
                             </div>
                             <div class="post-content">
-                               <h5> <a href="#"> Ronald Sánchez Brenes </a></h5>
-                               <div class="post-info"><span> Profesor</span>/<span><a href="#"> UNA SEDE LIBERIA</a></span></div>
+                               <h5> <p> Ronald Sánchez Brenes </p></h5>
+                               <div class="post-info"><span> PROFESOR </span>/<span><p> UNA SEDE LIBERIA</p> </span> </div>
                                <p>
-                                  Dow wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse iriure molestie...
+                                 FUNCIONARIO DEL CEMEDE
                                </p>
                             </div>
                          </li>
                          <li>
                             <div class="post-img">
-                               <a href="#">
+                               <p>
                                   <img src="../../../assets/images/FOTO WILLLIAM.jpeg" alt="Inspiration of UX design">
-                               </a>
+                              </p>
                             </div>
                             <div class="post-content">
-                               <h5><a href="#"> William Gómez Solís </a></h5>
-                               <div class="post-info"><span>Profesor</span>/<span><a href="#">UNA SEDE NICOYA</a></span></div>
+                               <h5><p> William Gómez Solís </p></h5>
+                               <div class="post-info"> <span> PROFESOR </span> / <span> <p> UNA SEDE NICOYA </p> </span> </div>
                                <p>
-                                  Dow wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse iriure molestie...
+                                  FUNCIONARIO DEL CEMEDE
                                </p>
                             </div>
                          </li>
@@ -201,7 +206,7 @@
          <div class="card_info"> <!-- Here I create a New Div for user info with class name card_info -->
             <h2 class="text-white">Francisco ChongKan Alfaro</h2>
             <p>Estudiante/UNA Sede Chorotega</p>
-            <br><a href="#">Github</a>
+            <br><a href="https://github.com/Frank-CKA">Github</a>
             <br><a href="#">Linkedin</a>
          </div>
       </div>
