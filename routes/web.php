@@ -36,7 +36,7 @@ Route::get('/', function () {
 //RUTAS PARA EL CLIENTE SIN SEGURIDAD
 Route::get('/', [App\Http\Controllers\ClienteController::class, 'index'])->name('inicio');
 Route::get('/repositorioNimbu', [App\Http\Controllers\ClienteController::class, 'repositorio'])->name('repositorio');
-//Se elimina ruta de capacitaciones vieja que no se necesitaba.
+Route::get('/capacitacionInfo', [App\Http\Controllers\ClienteController::class, 'capacitacionInfo'])->name('capacitacionInfo'); //work pls
 Route::get('/inicio', [App\Http\Controllers\ClienteController::class, 'index'])->name('iniciov2');
 Route::get('/acerca', [App\Http\Controllers\ClienteController::class, 'acerca'])->name('acerca');
 Route::get('/actividadesNimbu', [App\Http\Controllers\ClienteController::class, 'actividades'])->name('NimbuActividades');
