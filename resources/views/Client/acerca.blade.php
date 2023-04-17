@@ -59,13 +59,13 @@
                      <div class="service-info">
                         <h5>VALORES DEL NIMBÚ</h5>
                         <div class="desc">
-                          <span> Acción Social </span> 
+                          <p> Acción Social </p> 
                            
-                           <span>Trabajo En Equipo</span>
+                           <p>Trabajo En Equipo</p>
 
-                           <span>Innovación</span>
+                           <p>Innovación</p>
 
-                           <span>Responsabilidad</span>
+                           <p>Responsabilidad</p>
 
                            <a class="see-more" href="#">
                      
